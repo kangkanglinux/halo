@@ -1,7 +1,7 @@
 <header class="main-header">
     <a href="/admin" class="logo">
-        <span class="logo-mini"><b>H</b>a</span>
-        <span class="logo-lg"><b>Ha</b>lo</span>
+        <span class="logo-mini"><b>B</b></span>
+        <span class="logo-lg"><b>B</b>log</span>
     </a>
     <nav class="navbar navbar-static-top" role="navigation">
         <a href="javascript:void(0)" class="sidebar-toggle" data-toggle="push-menu" role="button">

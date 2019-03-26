@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
         <meta name="renderer" content="webkit">
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-        <title>Halo-<@spring.message code='install.page.title'/></title>
+        <title>Kang Blog-<@spring.message code='install.page.title'/></title>
         <link rel="stylesheet" href="/static/halo-backend/plugins/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="/static/halo-backend/css/AdminLTE.min.css">
         <link rel="stylesheet" href="/static/halo-backend/plugins/animate/animate.min.css">
@@ -32,7 +32,7 @@
             <div class="row" style="padding-top: 50px">
                 <div class="col-lg-12 col-xs-12">
                     <div class="logo animated fadeInUp">
-                        Halo<small style="font-size: 14px;"><@spring.message code='install.page.title'/></small>
+                        Kang Blog<small style="font-size: 14px;"><@spring.message code='install.page.title'/></small>
                     </div>
                     <#if isInstall==false>
                     <#if RequestParameters['lang']??>

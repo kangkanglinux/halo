@@ -25,7 +25,7 @@
             <!-- Author Avatar -->
             <div id="author-avatar">
                 <img src="${user.userAvatar!'/material/source/img/avatar.png'}" width="44px" height="44px"
-                     alt="${user.userDisplayName!'Halo'}'s avatar">
+                     alt="${user.userDisplayName!'Kang Blog'}'s avatar">
             </div>
             <div>
                 <strong>${user.userDisplayName!'Material'}</strong>

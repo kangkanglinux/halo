@@ -13,7 +13,7 @@
 
     <!-- Sidebar Avatar -->
     <div class="sidebar-image">
-        <img src="${user.userAvatar!'/material/source/img/avatar.png'}" alt="${user.userDisplayName!'Halo'}'s avatar">
+        <img src="${user.userAvatar!'/material/source/img/avatar.png'}" alt="${user.userDisplayName!'Kang Blog'}'s avatar">
     </div>
 
     <!-- Sidebar Email -->

@@ -19,10 +19,10 @@
         <a target="_blank" href="#">
             <#-- 不允许修改该主题信息，也不能删除。 -->
             <span>Designed by </span>
-            <a href="https://www.caicai.me">CaiCai</a>
+            <a href="https://www.codes.beer">KangKang</a>
             <#-- 虽然Halo使用了宽松的GPL协议，但开发不易，希望您可以保留一下版权声明。笔芯~ -->
             <div class="by_halo">
-                <a href="https://github.com/ruibaby/halo" target="_blank">Proudly published with Halo&#65281;</a>
+                <a href="https://github.com/kangkanglinux/halo" target="_blank">Proudly published with KangKang Halo&#65281;</a>
             </div>
             <div class="footer_text">
                 <@footer_info></@footer_info>

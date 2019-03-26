@@ -502,8 +502,8 @@
                             </div>
                             <div class="box-footer no-padding">
                                 <ul class="nav nav-stacked">
-                                    <li><a target="_blank" href="https://viosey.com">作者主页</a></li>
-                                    <li><a target="_blank" href="https://github.com/viosey/hexo-theme-material">原主题地址</a></li>
+                                    <li><a target="_blank" href="www.codes.beer">作者主页</a></li>
+                                    <li><a target="_blank" href="https://github.com/kangkanglinux/">作者GitHub</a></li>
                                 </ul>
                             </div>
                         </div>

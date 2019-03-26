@@ -15,7 +15,7 @@
 <#if (options.theme_material_scheme!'Paradox') == "Isolation">
     <div class="post-header_info without-thumbnail">
         <!-- Author Avatar & Name -->
-        <img src="${user.userAvatar!'/material/source/img/avatar.png'}" class="avatar-img" width="44px" height="44px" alt="${user.userDisplayName!'Halo'}'s avatar">
-        <span class="name-span">${user.userDisplayName!'Halo'}</span>
+        <img src="${user.userAvatar!'/material/source/img/avatar.png'}" class="avatar-img" width="44px" height="44px" alt="${user.userDisplayName!'Kang Blog'}'s avatar">
+        <span class="name-span">${user.userDisplayName!'Kang Blog'}</span>
     </div>
 </#if>

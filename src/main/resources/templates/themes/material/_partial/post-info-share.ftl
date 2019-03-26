@@ -14,7 +14,7 @@
 
     <!-- Share Twitter -->
     <#if (options.theme_material_sns_share_twitter!'true')=='true'>
-    <a class="post_share-link" href="https://twitter.com/intent/tweet?text=${post.postTitle}&url=<${post.postTitle}&url=${options.blog_url}/archives/${post.postUrl}&via=${user.userDisplayName!'Halo'}" target="_blank">
+    <a class="post_share-link" href="https://twitter.com/intent/tweet?text=${post.postTitle}&url=<${post.postTitle}&url=${options.blog_url}/archives/${post.postUrl}&via=${user.userDisplayName!'Kang Blog'}" target="_blank">
         <li class="mdl-menu__item">
             分享到Twitter
         </li>

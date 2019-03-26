@@ -26,12 +26,12 @@
                 <p><@spring.message code='admin.halo.content.p2' /></p>
             </blockquote>
             <p><@spring.message code='admin.halo.content.p3' /></p>
-            <p>Github issues ：<a href='https://github.com/ruibaby/halo/issues' target="_blank">https://github.com/ruibaby/halo/issues</a></p>
-            <p>Blog : <a href="https://ryanc.cc" target="_blank">https://ryanc.cc</a> </p>
+            <p>Github issues ：<a href='https://github.com/kangkanglinux/halo' target="_blank">https://github.com/kangkanglinux/halo</a></p>
+            <p>Blog : <a href="www.codes.beer" target="_blank">www.codes.beer</a> </p>
             <p>Email : <a href='mailto:i@ryanc.cc'>i@ryanc.cc</a></p>
-            <p>Telegram : <a href="https://t.me/ruibaby" target="_blank">ruibaby</a></p>
-            <p>Telegram Channel: <a href="https://t.me/halo_dev" target="_blank">Halo's Channel</a></p>
-            <p>QQ : 709831589</p>
+            <p>Telegram : <a href="www.codes.beer" target="_blank">KangKang</a></p>
+            <p>Telegram Channel: <a href="www.codes.beer" target="_blank">Kang's Blog</a></p>
+            <p>QQ : 88888888</p>
         </div>
     </section>
 </div>

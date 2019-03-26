@@ -189,8 +189,8 @@
                             </div>
                             <div class="box-footer no-padding">
                                 <ul class="nav nav-stacked">
-                                    <li><a target="_blank" href="https://www.caicai.me/">作者主页</a></li>
-                                    <li><a target="_blank" href="https://github.com/hi-caicai/farbox-theme-Anatole">原主题地址</a></li>
+                                    <li><a target="_blank" href="https://www.codes.beer">作者主页</a></li>
+                                    <li><a target="_blank" href="https://github.com/kangkanglinux">作者GitHub</a></li>
                                 </ul>
                             </div>
                         </div>
